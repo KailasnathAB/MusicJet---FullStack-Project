@@ -1,0 +1,44 @@
+/* adminhome.css */
+body {
+    font-family: Arial, sans-serif;
+     background-image: url(img3.jpg);
+   background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    color:red;
+}
+.a2{
+	text-align: center;
+}
+.a1 {
+       background-image: url(img3.jpg);
+        background-color: #1DB954;
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+a1 input[type="submit"] {
+    width: 200px;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    background-color: #1DB954; /* Change button background color to green */
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.a1 input[type="submit"]:hover {
+    background-color: #1ED760; /* Lighter green on hover */
+}
+
+h2 {
+    text-align: center;
+    color: #fff;
+}
