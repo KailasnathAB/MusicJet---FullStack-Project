@@ -1,0 +1,23 @@
+body {
+    background-image: url(images9.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif; /* Specify a fallback font */
+}
+
+.a2 {
+    color: red;
+    text-align: center;
+    margin-top: 7%;
+}
+
+#a3 {
+    background-color: #1ed760;
+    padding: 20px; /* Add padding for better visual appearance */
+    text-align: center;
+    color: #fff; /* Ensure text is visible against the background */
+    border-radius: 10px; /* Add rounded corners for a modern look */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a subtle shadow for depth */
+}

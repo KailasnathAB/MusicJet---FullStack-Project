@@ -1,0 +1,32 @@
+body{
+	 font-family: Arial, sans-serif;
+   font-family: Arial, sans-serif;
+     background-image: url(img3.jpg);
+   background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    color:red;
+	
+	
+}
+.a2{
+	text-align: center;
+	padding-left: 30%;
+	padding-top: 10%;
+	
+}
+.a3{
+	width: 70%;
+	height: 200px;
+	border-collapse: collapse;
+}
+.a4{
+	 background-color: #4CAF50;
+    color: white;
+	border: 1px solid black;
+	padding:8px;
+	text-align: center;
+}
+
